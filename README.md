@@ -4,7 +4,7 @@
 
 ## Ödül hakkında bilgi olmayan, can sıkıntısından oluşturulmuş bir repodur.
 
-## Gereksinimler:
+## Gereksinimler;
 ```
 2 CPU
 4GB RAM
